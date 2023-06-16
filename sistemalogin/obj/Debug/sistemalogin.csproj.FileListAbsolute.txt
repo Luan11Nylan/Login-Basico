@@ -1,0 +1,34 @@
+C:\Users\PC\Documents\Codigos C#\Sistema-Login\sistemalogin\sistemalogin\bin\Debug\sistemalogin.exe.config
+C:\Users\PC\Documents\Codigos C#\Sistema-Login\sistemalogin\sistemalogin\bin\Debug\sistemalogin.exe
+C:\Users\PC\Documents\Codigos C#\Sistema-Login\sistemalogin\sistemalogin\bin\Debug\sistemalogin.pdb
+C:\Users\PC\Documents\Codigos C#\Sistema-Login\sistemalogin\sistemalogin\obj\Debug\sistemalogin.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Codigos C#\Sistema-Login\sistemalogin\sistemalogin\obj\Debug\sistemalogin.Form1.resources
+C:\Users\PC\Documents\Codigos C#\Sistema-Login\sistemalogin\sistemalogin\obj\Debug\sistemalogin.Properties.Resources.resources
+C:\Users\PC\Documents\Codigos C#\Sistema-Login\sistemalogin\sistemalogin\obj\Debug\sistemalogin.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Codigos C#\Sistema-Login\sistemalogin\sistemalogin\obj\Debug\sistemalogin.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Codigos C#\Sistema-Login\sistemalogin\sistemalogin\obj\Debug\sistemalogin.exe
+C:\Users\PC\Documents\Codigos C#\Sistema-Login\sistemalogin\sistemalogin\obj\Debug\sistemalogin.pdb
+C:\Users\PC\Documents\Codigos C#\Sistema-Login\sistemalogin\sistemalogin\obj\Debug\sistemalogin.FormLogin.resources
+D:\Codigos C#\Sistema-Login\sistemalogin\sistemalogin\bin\Debug\sistemalogin.exe.config
+D:\Codigos C#\Sistema-Login\sistemalogin\sistemalogin\bin\Debug\sistemalogin.exe
+D:\Codigos C#\Sistema-Login\sistemalogin\sistemalogin\bin\Debug\sistemalogin.pdb
+D:\Codigos C#\Sistema-Login\sistemalogin\sistemalogin\obj\Debug\sistemalogin.csproj.AssemblyReference.cache
+D:\Codigos C#\Sistema-Login\sistemalogin\sistemalogin\obj\Debug\sistemalogin.Form1.resources
+D:\Codigos C#\Sistema-Login\sistemalogin\sistemalogin\obj\Debug\sistemalogin.FormLogin.resources
+D:\Codigos C#\Sistema-Login\sistemalogin\sistemalogin\obj\Debug\sistemalogin.Properties.Resources.resources
+D:\Codigos C#\Sistema-Login\sistemalogin\sistemalogin\obj\Debug\sistemalogin.csproj.GenerateResource.cache
+D:\Codigos C#\Sistema-Login\sistemalogin\sistemalogin\obj\Debug\sistemalogin.csproj.CoreCompileInputs.cache
+D:\Codigos C#\Sistema-Login\sistemalogin\sistemalogin\obj\Debug\sistemalogin.exe
+D:\Codigos C#\Sistema-Login\sistemalogin\sistemalogin\obj\Debug\sistemalogin.pdb
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\Sistema-Login\sistemalogin\sistemalogin\bin\Debug\sistemalogin.exe.config
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\Sistema-Login\sistemalogin\sistemalogin\bin\Debug\sistemalogin.exe
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\Sistema-Login\sistemalogin\sistemalogin\bin\Debug\sistemalogin.pdb
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\Sistema-Login\sistemalogin\sistemalogin\obj\Debug\sistemalogin.csproj.AssemblyReference.cache
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\Sistema-Login\sistemalogin\sistemalogin\obj\Debug\sistemalogin.csproj.SuggestedBindingRedirects.cache
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\Sistema-Login\sistemalogin\sistemalogin\obj\Debug\sistemalogin.Form1.resources
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\Sistema-Login\sistemalogin\sistemalogin\obj\Debug\sistemalogin.FormLogin.resources
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\Sistema-Login\sistemalogin\sistemalogin\obj\Debug\sistemalogin.Properties.Resources.resources
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\Sistema-Login\sistemalogin\sistemalogin\obj\Debug\sistemalogin.csproj.GenerateResource.cache
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\Sistema-Login\sistemalogin\sistemalogin\obj\Debug\sistemalogin.csproj.CoreCompileInputs.cache
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\Sistema-Login\sistemalogin\sistemalogin\obj\Debug\sistemalogin.exe
+D:\Linguagem de Programação\Codigos C#\C# - 2021\Projetinho.C#\Sistema-Login\sistemalogin\sistemalogin\obj\Debug\sistemalogin.pdb
